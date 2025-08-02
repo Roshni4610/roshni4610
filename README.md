@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Roshni Palas</h1>
+<h3 align="center">Building Web Skills | Python in Progress | Passionate About Clean Code</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshni4610&label=Profile%20views&color=0e75b6&style=flat" alt="roshni4610" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshni4610" alt="roshni4610" /></a> </p>
+
+- 🔭 I’m currently working on **I'm currently exploring beginner-friendly Python project to sharpen my skills.**
+
+- 🌱 I’m currently learning **python,web development**
+
+- 👯 I’m looking to collaborate on **I am looking to collaborate on front-end web development using HTML, CSS, Javascript.**
+
+- 📫 How to reach me **roshnipalas@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://thumbs.dreamstime.com/b/cartoon-girl-sitting-desk-laptop-front-her-ai-generated-image-cartoon-girl-sitting-desk-320199579.jpg">
 <p align="left">
