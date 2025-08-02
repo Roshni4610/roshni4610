@@ -12,11 +12,10 @@
 - 👯 I’m looking to collaborate on **I am looking to collaborate on front-end web development using HTML, CSS, Javascript.**
 
 - 📫 How to reach me **roshnipalas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>\
 <center>
+  <h3 align="left">Connect with me:</h3>\
+
   <img align = "right" alt = "coding" width = "400" src = "https://thumbs.dreamstime.com/b/cartoon-girl-sitting-desk-laptop-front-her-ai-generated-image-cartoon-girl-sitting-desk-320199579.jpg">
-</center>
 <p align="left">
 </p>
 
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshni4610&show_icons=true&locale=en" alt="roshni4610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshni4610&" alt="roshni4610" /></p>
+</center>
