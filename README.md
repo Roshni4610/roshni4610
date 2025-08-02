@@ -13,8 +13,10 @@
 
 - 📫 How to reach me **roshnipalas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://thumbs.dreamstime.com/b/cartoon-girl-sitting-desk-laptop-front-her-ai-generated-image-cartoon-girl-sitting-desk-320199579.jpg">
+<h3 align="left">Connect with me:</h3>\
+<center>
+  <img align = "right" alt = "coding" width = "400" src = "https://thumbs.dreamstime.com/b/cartoon-girl-sitting-desk-laptop-front-her-ai-generated-image-cartoon-girl-sitting-desk-320199579.jpg">
+</center>
 <p align="left">
 </p>
 
